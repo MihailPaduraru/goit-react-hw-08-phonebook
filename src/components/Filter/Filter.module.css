@@ -1,9 +1,0 @@
-.filter input {
-  padding: 8px;
-}
-
-.filter {
-  display: flex;
-  justify-content: flex-end;
-  margin-bottom: 10px;
-}
